@@ -1,19 +1,3 @@
-/**
-1️⃣ Personal Expense Tracker (On-chain)
-Real-world use: Daily kharcha record karna
-Concepts you’ll learn
-struct
-mapping
-msg.sender
-basic events
-Features
-User apna Expense add kare (amount + note)
-Total Expense calculate ho
-Sirf owner apna data dekh sake
-👉 Real life mapping:
-On-chain ledger = personal finance log
-*/
-
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.29;
 
